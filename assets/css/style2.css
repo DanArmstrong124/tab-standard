@@ -1,0 +1,42 @@
+.name{
+    text-align: center !important;
+    width: 100% !important;
+    left: 0 !important;
+}
+
+
+.viewmore{
+    background: #dca123;
+    margin-bottom: 20px;
+    border: 2px solid #414347;
+    color: #414347;
+    transition: all .5s;
+    border-radius: 2em;
+    width: 20%;
+    height: 45px;
+    font-size: 27px;
+}
+
+
+.viewmore:hover{
+    background: #414347;
+    color: white;
+    margin-bottom: 20px;
+    transition: all .5s;
+    border-radius: 2em;
+    width: 20%;
+    height: 45px;
+    font-size: 27px;
+}
+
+@media only screen and (max-width: 720px) {
+    .viewmore{
+        width:40%;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .viewmore{
+        width:60%;
+    }
+}
