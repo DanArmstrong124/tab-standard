@@ -98,6 +98,10 @@ body{
     border-radius: 7px;
     margin-bottom: 10px;}
 
+    .vmbutton:hover {
+        background: #dfb14e;
+        transition: all .5s;
+    }
 .pub-info{
     text-align: center;
     padding-top: 50px;
