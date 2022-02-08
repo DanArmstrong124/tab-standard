@@ -55,9 +55,10 @@ header{
     color: white;
     display: inline-block;
     margin: 23px;
-    background: #dca123;
-    border: 1px solid #414347;
+    background: #dfb14e;
     padding: 5px;
+    border-radius: 3px;
+    width: 70px;
 }
 
 /*Body*/
