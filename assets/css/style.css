@@ -55,10 +55,15 @@ header{
     color: white;
     display: inline-block;
     margin: 23px;
-    background: #dfb14e;
+    background: #414347;
     padding: 5px;
     border-radius: 3px;
     width: 70px;
+}
+
+.navitem:hover {
+    background: #dfb14e;
+    transition: all .5s;
 }
 
 /*Body*/
