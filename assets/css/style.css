@@ -47,6 +47,14 @@ header{
     left: 135px;
 }
 
+.navmenu {
+    text-align: center;
+}
+
+.navitem {
+    color: white;
+}
+
 /*Body*/
 body{
     font-family: 'Lato', sans-serif;
